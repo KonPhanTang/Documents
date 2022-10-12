@@ -1,6 +1,6 @@
 Welcome to Bitcoin Developer Documents (TH)
 ===================================
-_เรียนรู้ Bitcoin และเริ่มสร้างแอปพลิเคชันที่ใช้ Bitcoin_
+เรียนรู้ Bitcoin และเริ่มสร้างแอปพลิเคชันที่ใช้ Bitcoin
 
 **เริ่มต้น**
 
