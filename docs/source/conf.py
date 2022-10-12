@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'BTC Developer Documents TH'
+project = 'Developer Documents TH'
 copyright = '2022, Microtronic.biz'
 author = 'DevG'
 
